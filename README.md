@@ -1,4 +1,4 @@
-# Supported country lists of SMS Sender ID
+# Supported lists of countries for SMS Sender ID
 
 ||||
 |--- |--- |--- |

@@ -153,7 +153,7 @@
 |Norway|Yes|
 |Oman|Yes|Yes|
 |Pakistan|Yes|Yes|
-|Palestine|Yes||
+|Palestine|Yes - Sender ID may be altered to ensure delivery.||
 |Panama|No||
 |Papua New Guinea|Yes||
 |Paraguay|No||
